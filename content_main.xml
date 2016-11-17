@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.blackbox.auto.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:background="@drawable/bglite3">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:color/darker_gray"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+        <Button
+            android:text="Room 113"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room113"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 114"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room114"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 115"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room115"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 116"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room116"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 117"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room117"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 118"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room118"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 119"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room119"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 120"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room120"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 121"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room121"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+        <Button
+            android:text="Room 122"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/room122"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textAllCaps="false"
+            android:textAlignment="viewStart" />
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
